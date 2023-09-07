@@ -45,7 +45,8 @@ Este é um projeto de uma API em Django para agendamento de laboratório. Ele pe
 5.  Configure o banco de dados:
     
     `python manage.py makemigrations
-    python manage.py migrate` 
+     
+     python manage.py migrate` 
     
 6.  Crie um superusuário para acessar o painel de administração:
     
@@ -53,9 +54,9 @@ Este é um projeto de uma API em Django para agendamento de laboratório. Ele pe
     `python manage.py createsuperuser` 
     
 7.  Inicie o servidor de desenvolvimento:
-    
-    bashCopy code
-    
+
+
+
     `python manage.py runserver` 
     
 
