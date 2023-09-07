@@ -15,7 +15,7 @@ Este é um projeto de uma API em Django para agendamento de laboratório. Ele pe
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/zeguil/projeto-agendamento.git` 
+   git clone https://github.com/zeguil/projeto-agendamento.git 
 
 2.  Crie um ambiente virtual (recomendado):
     
